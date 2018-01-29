@@ -2,7 +2,7 @@
 
 A private Telegram bot to track, monitor (and much more) all your crypto trading exchanges
 
-[Get your trial version now!](https://github.com/tulihub/moonbot/wiki/Installation)
+[Get your version now!](https://github.com/tulihub/moonbot/wiki/Installation)
 
 
 * Get instant updated summary of all your crypto exchanges
@@ -19,3 +19,5 @@ Next to come:
 * Update Profit Trailer settings
 * Notification on each new sell\buy order
 
+
+#Supports Binance and Bittrex exchanges.
