@@ -1,11 +1,14 @@
 # MoonBot
 
-A private Telegram bot to track, monitor (and much more) all your crypto trading exchanges
+A private Telegram bot to track, monitor (and much more) all your crypto trading exchanges.
+
+MoonBot supports Profit Trailer and lets you update your PT settings from everywhere!
 
 [Get your version now!](https://github.com/tulihub/moonbot/wiki/Installation)
 
 
 * Get instant updated summary of all your crypto exchanges
+* Update PT settings from everywhere!
 * Track your profit in BTC and in USD (coinbase rate)
 * Get your portfolio status anytime
 * Clear view of your current tradings on each exchange
@@ -14,9 +17,13 @@ A private Telegram bot to track, monitor (and much more) all your crypto trading
 
 
 
+Telegram Group: https://t.me/MoonBot_com
+
+Premium Assistant: https://t.me/AssistantMoonBot
+
 Next to come:
 * Place a sell\buy order on specific coin
-* Update Profit Trailer settings
+* [DONE] Update Profit Trailer settings
 * Notification on each new sell\buy order
 
 
