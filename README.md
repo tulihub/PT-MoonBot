@@ -37,4 +37,4 @@ Next to come:
 #Lifetime Balance:
 lifetime balance is a calculation of your all trade history for that coin + its current balance. 
 
-balance = (all_sells - all_buys) + current balance.
+lifetime_balance = (all_sells - all_buys) + current_balance.
