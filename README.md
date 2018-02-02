@@ -4,6 +4,8 @@ A private Telegram bot to track, monitor (and much more) all your crypto trading
 
 MoonBot supports Profit Trailer and lets you update your PT settings from everywhere!
 
+![Screenshot](index.png)
+
 [Get your version now!](https://github.com/tulihub/moonbot/wiki/Installation)
 
 
