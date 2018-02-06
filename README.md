@@ -39,6 +39,7 @@ Use the following commands to share Profit Trailer sales, pairs and dca(s) statu
 /sales [n]: Share latest n (5) sells.<br />
 /pairs [n]: Share current n (all) pairs.<br />
 /dca [n]: Share n (all) DCAs.<br />
+Don't forget to mention your bot name (@<your_bot>) <br />
 <br />
 Terminology:<br />
 (sat): 1 satoshi = 0.00000001 BTC.<br />
