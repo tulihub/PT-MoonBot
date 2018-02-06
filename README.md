@@ -49,7 +49,7 @@ Val: Current value of your holdings.<br />
 Assistant: https://t.me/AssistantMoonBot <br />
 Telegram: https://t.me/MoonBot_com <br />
 
-[Get your version now!](https://github.com/tulihub/moonbot/wiki/Installation)<br />
+[Get your version now!](https://github.com/tulihub/moonbot/wiki/Quick-Installation)<br />
 Demo preview available here: https://t.me/AssistantMoonBot <br />
 
 #Supports Binance and Bittrex exchanges.
