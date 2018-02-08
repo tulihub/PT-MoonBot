@@ -3,7 +3,6 @@
 MoonBot is a private telegram bot that helps you monitor and track your crypto tradings.<br />
 Moonbot supports **Profit Trailer**, you can see (and share) your sales, pairs and dca status as well as updating your bot settings remotely!<br />
 
-The bot is free for use!<br />
 [Get your version now!](https://github.com/tulihub/moonbot/wiki/Quick-Installation)
 
 Advanced features are included in Premium (lifetime licence) membership.<br />
