@@ -18,6 +18,7 @@ Install your version and get 48h trial of Premium features!
 * Track your profit in BTC and in USD (coinbase rate)
 * Get your portfolio status anytime
 * Clear view of your current tradings on each exchange
+* Monitor you PT log files for error and sends you alerts!
 * Monitor BTC price 
 * Get notified when your Profit Trailer is down
 * Group support!
@@ -33,6 +34,7 @@ Pairs 💼 (/pairs [n]): Display current n (all) pairs.<br />
 DCA 💰 (/dca [n]): Display n n (all) DCAs.<br />
 PT Settings 🛠: Remote update your Profit Trailer / Feeder settings.<br />
 Bot Settings 🤖: Update MoonBot settings & /help .<br />
+/togglesom : Instant toggling of SOM (ALL_sell_only_mode) on/off.<br />
 <br />
 You can type 'Cancel' (/cancel) anytime to go back home.<br />
 <br />
