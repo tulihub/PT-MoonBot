@@ -57,6 +57,7 @@ Val: Current value of your holdings.<br />
 ### More info: <br />
 Assistant: https://t.me/AssistantMoonBot <br />
 Telegram: https://t.me/MoonBot_com <br />
+Discord: https://discord.gg/aJ3Ryu7 <br/>
 
 [Get your version now!](https://github.com/tulihub/moonbot/wiki/Quick-Installation)<br />
 Demo preview available here: https://t.me/AssistantMoonBot <br />
