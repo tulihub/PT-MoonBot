@@ -13,6 +13,7 @@ Install your version and get 48h trial of Premium features!
 
 * Get instant updated summary of all your crypto exchanges
 * View and share your sales, pairs and dca status
+* Get notifications when your bot buys or sell (dca too!)
 * Update and control your PT from everywhere!
 * Update PT Feeder settings from everywhere!
 * Track your profit in BTC and in USD (coinbase rate)
