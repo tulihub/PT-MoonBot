@@ -5,7 +5,7 @@ Moonbot supports **Profit Trailer**, you can see (and share) your sales, pairs a
 
 [Get your version now!](https://github.com/tulihub/moonbot/wiki/Quick-Installation)
 
-![Screenshot](ss.png)
+![Screenshot](ss.jpeg)
 
 Advanced features are included in Premium (lifetime licence) membership.<br />
 Install your version and get 48h trial of Premium features!
