@@ -36,6 +36,7 @@ DCA 💰 (/dca [n]): Display n n (all) DCAs.<br />
 PT Settings 🛠: Remote update your Profit Trailer / Feeder settings.<br />
 Bot Settings 🤖: Update MoonBot settings & /help .<br />
 /togglesom : Instant toggling of SOM (ALL_sell_only_mode) on/off.<br />
+/restartpt : execute PT restart command<br />
 <br />
 You can type 'Cancel' (/cancel) anytime to go back home.<br />
 <br />
