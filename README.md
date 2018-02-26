@@ -1,17 +1,20 @@
-# PT-MoonBot
+# PT-MoonBot &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ![Screenshot](dir/logo_small.png)
 
-![Screenshot](dir/logo_small.png)
+
+Telegram: https://t.me/AssistantMoonBot <- Demo preview <br />
+Discord: https://discord.gg/aJ3Ryu7 <br/>
 
 MoonBot is a private telegram bot that helps you monitor and track your crypto tradings.<br />
-Moonbot supports **Profit Trailer**, you can see (and share) your sales, pairs and dca status as well as updating your bot settings remotely (**PT Feeder** too)!<br />
+Moonbot has advanced integration with **Profit Trailer**, you can view (and share) your sales, pairs and dca status, update your PT settings remotely (**PT Feeder** too), get notification on sells, buys (dca too!) and much more!!<br />
 
 [Get your version now!](https://github.com/tulihub/moonbot/wiki/Quick-Installation)
 
 ![Screenshot](ss.jpeg)
 
-Advanced features are included in Premium (lifetime licence) membership.<br />
-Install your version and get 48h trial of Premium features!
+Offers freemium and premium membership (only 0.008!!).<br />
+[Install your version now](https://github.com/tulihub/moonbot/wiki/Quick-Installation) and get 48h trial of Premium features!
 <br /><br />
+
 
 * Get instant updated summary of all your crypto exchanges
 * View and share your sales, pairs and dca status
@@ -57,11 +60,6 @@ Terminology:<br />
 Bal: Life time balance (all_sells - all_buys + current_balance).<br />
 Val: Current value of your holdings.<br />
 <br />
-### More info: <br />
-Telegram: https://t.me/AssistantMoonBot <br />
-Discord: https://discord.gg/aJ3Ryu7 <br/>
 
 [Get your version now!](https://github.com/tulihub/moonbot/wiki/Quick-Installation)<br />
-Demo preview available here: https://t.me/AssistantMoonBot <br />
-
 #Supports Binance and Bittrex exchanges.
