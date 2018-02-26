@@ -9,7 +9,7 @@ Moonbot has advanced integration with **Profit Trailer**, you can view (and shar
 
 [Get your version now!](https://github.com/tulihub/moonbot/wiki/Quick-Installation)
 
-![Screenshot](ss.jpeg)
+![Screenshot](dir/ss.jpeg)
 
 Offers freemium and premium membership (only 0.008!!).<br />
 [Install your version now](https://github.com/tulihub/moonbot/wiki/Quick-Installation) and get 48h trial of Premium features!
