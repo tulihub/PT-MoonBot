@@ -1,4 +1,4 @@
-# MoonBot
+# PT-MoonBot
 
 MoonBot is a private telegram bot that helps you monitor and track your crypto tradings.<br />
 Moonbot supports **Profit Trailer**, you can see (and share) your sales, pairs and dca status as well as updating your bot settings remotely (**PT Feeder** too)!<br />
