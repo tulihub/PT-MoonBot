@@ -18,17 +18,18 @@ Offers freemium and premium membership (only 0.008!!).<br />
 
 * Get instant updated summary of all your crypto exchanges
 * View and share your sales, pairs and dca status
+* **[Presets](https://github.com/tulihub/PT-MoonBot/wiki/Presets)** - switch between predefined sets of PT configs (Pairs,Dca,Indicators) in just few clicks! 
 * Get notifications when your bot buys or sell (dca too!)
 * Update and control your PT from everywhere!
 * Update PT Feeder settings from everywhere!
 * Track your profit in BTC and in USD (coinbase rate)
 * Get your portfolio status anytime
 * Clear view of your current tradings on each exchange
-* Monitor you PT log files for error and sends you alerts!
+* **[PT Log Watcher](https://github.com/tulihub/PT-MoonBot/wiki/Log-Watcher)** - Monitor you PT log files for error and sends you alerts!
 * Monitor BTC price 
 * Get notified when your Profit Trailer is down
-* Group support!
-* More to come!!! 
+* **[Groups](https://github.com/tulihub/PT-MoonBot/wiki/Groups)** support!
+* More to come!!!
 <br>
 
 ### Main Commands:<br>
@@ -43,6 +44,7 @@ Bot Settings 🤖: Update MoonBot settings & `/help` .<br />
 `/togglesom` : Instant toggling of SOM (ALL_sell_only_mode) on/off.<br />
 `/restartpt` : execute PT restart command<br />
 You can type 'Cancel' (`/cancel`) anytime to go back home.<br />
+[Wiki](https://github.com/tulihub/PT-MoonBot/wiki)<br>
 <br />
 ### Groups:
 Invite your bot to groups! <br>
@@ -56,6 +58,5 @@ Invite your bot to groups! <br>
 <br>
 ** Don't forget to mention your bot name ([@<your_bot>](@<your_bot>)) 
 <br />
-
 [Get your version now!](https://github.com/tulihub/moonbot/wiki/Quick-Installation)<br />
 #Supports Binance and Bittrex exchanges.<br />
