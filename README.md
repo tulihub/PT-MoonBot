@@ -35,14 +35,14 @@ Offers freemium and premium membership (only 0.008!!).<br />
 Summary: View summary of your accounts.<br />
 Binance: Show binance status including coin information.<br />
 Bittrex: bittrex status including coin information.<br />
-Sales 💸 (/sales [n]): Display latest n (5) Profit Trailer sells.<br />
-Pairs 💼 (/pairs [n]): Display current n (all) pairs.<br />
-DCA 💰 (/dca [n]): Display n n (all) DCAs.<br />
+Sales 💸 (`/sales [n]`): Display latest n (5) Profit Trailer sells.<br />
+Pairs 💼 (`/pairs [n]`): Display current n (all) pairs.<br />
+DCA 💰 (`/dca [n]`): Display n n (all) DCAs.<br />
 PT Settings 🛠: Remote update your Profit Trailer / Feeder settings.<br />
-Bot Settings 🤖: Update MoonBot settings & /help .<br />
+Bot Settings 🤖: Update MoonBot settings & `/help` .<br />
 `/togglesom` : Instant toggling of SOM (ALL_sell_only_mode) on/off.<br />
 `/restartpt` : execute PT restart command<br />
-You can type 'Cancel' (/cancel) anytime to go back home.<br />
+You can type 'Cancel' (`/cancel`) anytime to go back home.<br />
 <br />
 ### Groups:
 Invite your bot to groups! <br>
