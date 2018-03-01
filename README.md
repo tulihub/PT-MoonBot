@@ -29,9 +29,9 @@ Offers freemium and premium membership (only 0.008!!).<br />
 * Get notified when your Profit Trailer is down
 * Group support!
 * More to come!!! 
+<br>
 
-
-### Main Commands:<br />
+### Main Commands:<br>
 Summary: View summary of your accounts.<br />
 Binance: Show binance status including coin information.<br />
 Bittrex: bittrex status including coin information.<br />
@@ -40,14 +40,12 @@ Pairs 💼 (/pairs [n]): Display current n (all) pairs.<br />
 DCA 💰 (/dca [n]): Display n n (all) DCAs.<br />
 PT Settings 🛠: Remote update your Profit Trailer / Feeder settings.<br />
 Bot Settings 🤖: Update MoonBot settings & /help .<br />
-/togglesom : Instant toggling of SOM (ALL_sell_only_mode) on/off.<br />
-/restartpt : execute PT restart command<br />
-<br />
+`/togglesom` : Instant toggling of SOM (ALL_sell_only_mode) on/off.<br />
+`/restartpt` : execute PT restart command<br />
 You can type 'Cancel' (/cancel) anytime to go back home.<br />
 <br />
 ### Groups:
 Invite your bot to groups! <br>
-
 ##### Use the following commands to share Profit Trailer sales, pairs and dca(s) status:<br>
 `/sales` [n]: Share latest n (5) sells.<br>
 `/pairs` [n]: Share current n (all) pairs.<br>
