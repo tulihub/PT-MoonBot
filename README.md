@@ -50,7 +50,8 @@ Invite your bot to groups! <br>
 ##### Use the following commands to share Profit Trailer sales, pairs and dca(s) status:<br>
 `/sales` [n]: Share latest n (5) sells.<br>
 `/pairs` [n]: Share current n (all) pairs.<br>
-`/dca` [n]: Share n (all) DCAs.<br><br>
+`/dca` [n]: Share n (all) DCAs.<br>
+`/notify`: Send buy\sold notifications to the group<br><br>
 ##### Other available commands in groups:<br>
 `/allowgroup` : ⛔️ Allow all group members to control your bot.<br>
 `/bangroup` : Ban group members from controlling your bot.<br>
