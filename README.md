@@ -45,21 +45,19 @@ Bot Settings 🤖: Update MoonBot settings & /help .<br />
 <br />
 You can type 'Cancel' (/cancel) anytime to go back home.<br />
 <br />
-### Groups:<br />
-Invite your bot to groups!<br />
-Use the following commands to share Profit Trailer sales, pairs and dca(s) status:<br />
-/sales [n]: Share latest n (5) sells.<br />
-/pairs [n]: Share current n (all) pairs.<br />
-/dca [n]: Share n (all) DCAs.<br />
-/allowgroup : ⛔️ Allow all group members to control your bot.<br />
-/bangroup : Ban group members from controlling your bot.<br />
-Don't forget to mention your bot name (@<your_bot>) <br />
-<br />
-Terminology:<br />
-(sat): 1 satoshi = 0.00000001 BTC.<br />
-Bal: Life time balance (all_sells - all_buys + current_balance).<br />
-Val: Current value of your holdings.<br />
+### Groups:
+Invite your bot to groups! <br>
+
+##### Use the following commands to share Profit Trailer sales, pairs and dca(s) status:<br>
+`/sales` [n]: Share latest n (5) sells.<br>
+`/pairs` [n]: Share current n (all) pairs.<br>
+`/dca` [n]: Share n (all) DCAs.<br><br>
+##### Other available commands in groups:<br>
+`/allowgroup` : ⛔️ Allow all group members to control your bot.<br>
+`/bangroup` : Ban group members from controlling your bot.<br>
+<br>
+** Don't forget to mention your bot name ([@<your_bot>](@<your_bot>)) 
 <br />
 
 [Get your version now!](https://github.com/tulihub/moonbot/wiki/Quick-Installation)<br />
-#Supports Binance and Bittrex exchanges.
+#Supports Binance and Bittrex exchanges.<br />
