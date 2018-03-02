@@ -18,10 +18,10 @@ Offers freemium and premium membership (only 0.008!!).<br />
 
 * Get instant updated summary of all your crypto exchanges
 * View and share your sales, pairs and dca status
-* **[Presets](https://github.com/tulihub/PT-MoonBot/wiki/Presets)** - switch between predefined sets of PT configs (Pairs,Dca,Indicators) in just few clicks! 
+* **[PT Presets](https://github.com/tulihub/PT-MoonBot/wiki/Presets)** - switch between predefined sets of PT configs (Pairs,Dca,Indicators) in just few clicks! 
 * Get notifications when your bot buys or sell (dca too!)
-* Update and control your PT from everywhere!
-* Update PT Feeder settings from everywhere!
+* **[PT Settings](https://github.com/tulihub/PT-MoonBot/wiki/PT-Settings)** - Update and control your PT from everywhere!
+* **[PTF Settings](https://github.com/tulihub/PT-MoonBot/wiki/PTF-Settings)** - Update PT Feeder settings from everywhere!
 * Track your profit in BTC and in USD (coinbase rate)
 * Get your portfolio status anytime
 * Clear view of your current tradings on each exchange
