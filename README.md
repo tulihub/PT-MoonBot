@@ -58,5 +58,4 @@ Invite your bot to groups! <br>
 <br>
 ** Don't forget to mention your bot name ([@<your_bot>](@<your_bot>)) 
 <br />
-[Get your version now!](https://github.com/tulihub/moonbot/wiki/Quick-Installation)<br />
 #Supports Binance and Bittrex exchanges.<br />
