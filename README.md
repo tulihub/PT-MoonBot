@@ -58,4 +58,4 @@ Invite your bot to groups! <br>
 <br>
 ** Don't forget to mention your bot name ([@<your_bot>](@<your_bot>)) 
 <br />
-#Supports Binance and Bittrex exchanges.<br />
+#Supports Binance, Bittrex and Poloniex(Alpha) exchanges.<br />
