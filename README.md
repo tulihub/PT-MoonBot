@@ -44,6 +44,8 @@ Bot Settings 🤖: Update MoonBot settings & `/help` .<br />
 `/togglesom` : Instant toggling of SOM (ALL_sell_only_mode) on/off.<br />
 `/restartpt` : execute PT restart command<br />
 You can type 'Cancel' (`/cancel`) anytime to go back home.<br />
+<br/>
+Demo bot: [https://t.me/demoMoonBot](https://t.me/demoMoonBot?start=gh)
 <br />
 ### Groups:
 Invite your bot to groups! <br>
