@@ -4,8 +4,11 @@
 Telegram: https://t.me/AssistantMoonBot <- Demo preview <br />
 Discord: https://discord.gg/aJ3Ryu7 <br/>
 
-MoonBot is a private telegram bot that helps you monitor and track your crypto tradings.<br />
-Moonbot has advanced integration with **Profit Trailer**, you can view (and share) your sales, pairs and dca status, update your PT settings remotely (**PT Feeder** too), get notification on sells, buys (dca too!) and much more!! [Wiki](https://github.com/tulihub/PT-MoonBot/wiki)<br /> 
+The most integrated, feature-enabled tool to quickly update your PT bot, remotely!<br>
+MoonBot is the ultimate addon for mobile control Profit Trailer. <br>
+Monitor and track your crypto tradings using your private and secured telegram bot.<br />
+Moonbot has advanced integration with **Profit Trailer**, you can view (and share) your pbls, sales, pairs and dca status, update your PT settings remotely (**PT Feeder** too), get complete notifications, switch between settings presets and much more!! [Wiki](https://github.com/tulihub/PT-MoonBot/wiki)<br /> 
+Join our discord channel: https://discord.gg/aJ3Ryu7<br>
 
 [Get your version now!](https://github.com/tulihub/moonbot/wiki/Quick-Installation)
 
