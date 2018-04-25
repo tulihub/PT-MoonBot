@@ -33,7 +33,9 @@ Moonbot has advanced integration with **Profit Trailer**, you can view (and shar
 * Get notified when your Profit Trailer is down
 * **[Groups](https://github.com/tulihub/PT-MoonBot/wiki/Groups)** support!
 * More to come!!!
-<br> Check our demo bot: https://t.me/demoMoonBot  <br>
+<br><br> 
+ Check our demo bot:[https://t.me/demoMoonBot](https://t.me/demoMoonBot?start=gh)
+<br/>
 
 ### Main Commands:<br>
 Summary: View summary of your accounts.<br />
