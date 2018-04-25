@@ -22,6 +22,7 @@ Offers freemium and premium membership (only 0.008!!).<br />
 * Get instant updated summary of all your crypto exchanges
 * View and share your sales, pairs and dca status
 * **[PT Presets](https://github.com/tulihub/PT-MoonBot/wiki/Presets)** - switch between predefined sets of PT configs (Pairs,Dca,Indicators) in just few clicks! 
+* **Pattern Search** - a quick way to search your PARIS and DCA settings for some text.
 * Get notifications when your bot buys or sell (dca too!)
 * **[PT Settings](https://github.com/tulihub/PT-MoonBot/wiki/PT-Settings)** - Update and control your PT from everywhere!
 * **[PTF Settings](https://github.com/tulihub/PT-MoonBot/wiki/PTF-Settings)** - Update PT Feeder settings from everywhere!
@@ -39,9 +40,10 @@ Offers freemium and premium membership (only 0.008!!).<br />
 Summary: View summary of your accounts.<br />
 Binance: Show binance status including coin information.<br />
 Bittrex: bittrex status including coin information.<br />
-Sales 💸 (`/sales [n]`): Display latest n (5) Profit Trailer sells.<br />
+PBL 👀 (`/pbl [n]`): Display possible buy list, include triggers values and true trailing.<br />
 Pairs 💼 (`/pairs [n]`): Display current n (all) pairs.<br />
 DCA 💰 (`/dca [n]`): Display n n (all) DCAs.<br />
+Sales 💸 (`/sales [n]`): Display latest n (5) Profit Trailer sells.<br />
 PT Settings 🛠: Remote update your Profit Trailer / Feeder settings.<br />
 Bot Settings 🤖: Update MoonBot settings & `/help` .<br />
 `/togglesom` : Instant toggling of SOM (ALL_sell_only_mode) on/off.<br />
