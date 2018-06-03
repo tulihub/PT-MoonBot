@@ -1,6 +1,5 @@
 # PT-MoonBot &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ![Screenshot](dir/logo_small.png)
 
-
 Telegram Assistant: [https://t.me/AssistantMoonBot](https://t.me/AssistantMoonBot?start=gh)<br />
 Demo bot: [https://t.me/demoMoonBot](https://t.me/demoMoonBot?start=gh) <br>
 <br>Join our Discord channel: https://discord.gg/aJ3Ryu7<br>
@@ -14,9 +13,8 @@ Moonbot has advanced integration with **Profit Trailer**, you can view (and shar
 
 ![Screenshot](dir/ss.jpg)
 
-[Install your version now](https://github.com/tulihub/moonbot/wiki/Quick-Installation) and get 48h trial of Premium features!
+[Install your version now](https://github.com/tulihub/moonbot/wiki/Quick-Installation)!
 <br /><br />
-
 
 * Get instant updated summary of all your crypto exchanges
 * View and share your sales, pairs and dca status
@@ -64,5 +62,11 @@ Invite your bot to groups! <br>
 `/bangroup` : Ban group members from controlling your bot.<br>
 <br>
 ** Don't forget to mention your bot name ([@<your_bot>](@<your_bot>)) 
+<br />#Supports Binance, Bittrex and Poloniex(Alpha) exchanges.<br />
 <br />
-#Supports Binance, Bittrex and Poloniex(Alpha) exchanges.<br />
+## Donate: <br>
+BTC 1Er2DrLMk7xEdY19LgSwH1kzsA3iCcBmzA<br>
+ETH 0x5ab32694458ac90f1e0c0c817aee8dd9cd1f3d47<br>
+LTC LaD8n73u8BKZB43JLCyRp3ju7ST2SBqQRi<br>
+
+
