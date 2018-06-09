@@ -1,8 +1,6 @@
 # PT-MoonBot &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ![Screenshot](dir/logo_small.png)
 
-Telegram Assistant: [https://t.me/AssistantMoonBot](https://t.me/AssistantMoonBot?start=gh)<br />
 Demo bot: [https://t.me/demoMoonBot](https://t.me/demoMoonBot?start=gh) <br>
-<br>Join our Discord channel: https://discord.gg/aJ3Ryu7<br>
 
 The most integrated, feature-enabled tool to quickly update your PT bot, remotely!<br>
 MoonBot is the ultimate addon for mobile control Profit Trailer. <br>
